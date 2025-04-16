@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://framanantsoa.github.io/miel-madagascar/sitemap.xml
